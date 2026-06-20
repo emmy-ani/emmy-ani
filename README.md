@@ -1,4 +1,4 @@
-# Hi, I'm Emeka Ani 👋
+# Hi, I'm Joseph Emeka Ani 👋
 
 ### 🛡️ About Me
 I am a Systems and Network Administrator transitioning into Security Operations (SecOps) and Cyber Defense. My background includes Cisco Networking Academy CCNA 1–3 coursework, Windows Server administration, and hands-on cybersecurity labs focused on security monitoring, incident response, and threat analysis.
